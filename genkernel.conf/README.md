@@ -1,2 +1,2 @@
 - For compiling kernel itself I use genkernel.conf.noinitramfs config file for genkernel.
-- After kernel compilation finishes, I change back to genkernel.conf.initramfs config file to compile initramfs modules. 
+- After kernel compilation finishes, I change back to genkernel.conf.initramfs config to compile initramfs modules. Because some modules can't compile against Clang. 
