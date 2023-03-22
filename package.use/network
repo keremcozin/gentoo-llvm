@@ -1,0 +1,2 @@
+net-misc/networkmanager		-gtk-doc -ppp -wext -wifi
+net-wireless/wpa_supplicant	-qt5

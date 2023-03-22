@@ -1,0 +1,17 @@
+media-gfx/krita			color-management fftw qtmedia
+media-video/ffmpeg		chromium opus xvid x264
+media-video/pipewire		pipewire-alsa sound-server extra
+media-libs/libsndfile		minimal
+app-text/ghostscript-gpl	cups
+dev-libs/libdbusmenu		gtk3
+app-crypt/gcr			gtk
+dev-qt/qtsql                    mysql
+kde-plasma/plasma-desktop       scim
+kde-plasma/kde-cli-tools        kdesu
+kde-apps/ksystemlog             kdesu
+
+net-p2p/ktorrent                -webengine
+media-libs/opencolorio		-opengl
+media-sound/pulseaudio		-daemon
+media-libs/phonon		-vlc
+media-gfx/graphite2             -perl
