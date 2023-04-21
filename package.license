@@ -1,7 +1,13 @@
-app-editors/vscode		Microsoft-vscode
+app-editors/vscode			Microsoft-vscode
 
-www-client/google-chrome	google-chrome
+www-client/google-chrome		google-chrome
 
-net-im/whatsapp-desktop-bin	android
+net-im/whatsapp-desktop-bin		android
 
-app-arch/rar			RAR
+dev-util/android-studio			android
+
+dev-util/android-ndk			android
+
+dev-util/android-sdk-update-manager	android
+
+app-arch/rar				RAR

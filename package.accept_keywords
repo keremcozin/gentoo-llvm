@@ -1,6 +1,14 @@
-www-client/google-chrome	~amd64
-dev-util/google-perftools	~amd64
-net-im/whatsapp-desktop-bin	~amd64
-net-im/telegram-desktop-bin	~amd64
-media-fonts/office-code-pro	~amd64
-app-editors/vscode		~amd64
+www-client/google-chrome		~amd64
+dev-util/google-perftools		~amd64
+net-im/whatsapp-desktop-bin		~amd64
+net-im/telegram-desktop-bin		~amd64
+media-fonts/office-code-pro		~amd64
+app-editors/vscode			~amd64
+dev-util/idea-community			~amd64
+dev-util/android-studio			~amd64
+dev-util/android-ndk			~amd64
+dev-util/android-sdk-update-manager	~amd64
+
+# FUSE filesystem over Google Drive
+sys-fs/google-drive-ocamlfuse		~amd64
+dev-ml/*				~amd64
