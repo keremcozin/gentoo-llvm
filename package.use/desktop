@@ -1,6 +1,14 @@
+app-office/libreoffice		googledrive pdfimport custom-cflags
+media-video/vlc			live rtsp upnp vcdx kate
+www-client/firefox		system-png geckodriver lto
+mail-client/thunderbird		system-png lto
 media-gfx/krita			color-management fftw qtmedia
-media-video/ffmpeg		chromium opus xvid x264
 media-video/pipewire		pipewire-alsa sound-server extra
+media-video/ffmpeg		chromium
+kde-frameworks/kfilemetadata	taglib
+app-text/poppler		nss
+media-libs/libvpx		postproc
+x11-base/xorg-server		xvfb
 media-libs/libsndfile		minimal
 app-text/ghostscript-gpl	cups
 dev-libs/libdbusmenu		gtk3
@@ -13,5 +21,4 @@ kde-apps/ksystemlog             kdesu
 net-p2p/ktorrent                -webengine
 media-libs/opencolorio		-opengl
 media-sound/pulseaudio		-daemon
-media-libs/phonon		-vlc
 media-gfx/graphite2             -perl

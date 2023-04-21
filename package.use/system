@@ -8,3 +8,7 @@ sys-libs/zlib			minizip
 app-text/xmlto			text
 app-arch/p7zip			wxwidgets
 app-admin/sysklogd		logrotate
+dev-ml/tiny_httpd		camlzip
+dev-java/swt			cairo
+dev-libs/xmlsec			nss
+sys-kernel/installkernel	grub

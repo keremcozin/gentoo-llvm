@@ -6,3 +6,4 @@ dev-libs/boost		numpy
 dev-lang/python		lto
 dev-python/PyQt5	declarative network gui
 dev-vcs/git		subversion
+dev-lang/ocaml		flambda
